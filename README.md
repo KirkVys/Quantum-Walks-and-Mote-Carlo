@@ -4,6 +4,11 @@
 
 **Team Name**: KiDa
 
+# Team Information
+**1.** **Name**: Kirill Vyskubov, **ID**: gst-Qeve8dmXLVTMqyj
+
+**2.** **Name**: Danil Vyskubov,  **ID**: gst-0QcrPsUq9OPHwGs
+
 # Summary 
 
 ## Aim
